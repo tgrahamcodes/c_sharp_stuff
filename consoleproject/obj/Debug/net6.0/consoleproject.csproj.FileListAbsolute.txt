@@ -1,0 +1,15 @@
+/Users/tom/code/c_sharp_stuff/consoleproject/bin/Debug/net6.0/consoleproject
+/Users/tom/code/c_sharp_stuff/consoleproject/bin/Debug/net6.0/consoleproject.deps.json
+/Users/tom/code/c_sharp_stuff/consoleproject/bin/Debug/net6.0/consoleproject.runtimeconfig.json
+/Users/tom/code/c_sharp_stuff/consoleproject/bin/Debug/net6.0/consoleproject.dll
+/Users/tom/code/c_sharp_stuff/consoleproject/bin/Debug/net6.0/consoleproject.pdb
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.csproj.AssemblyReference.cache
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.AssemblyInfoInputs.cache
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.AssemblyInfo.cs
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.csproj.CoreCompileInputs.cache
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.dll
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/refint/consoleproject.dll
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.pdb
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/consoleproject.genruntimeconfig.cache
+/Users/tom/code/c_sharp_stuff/consoleproject/obj/Debug/net6.0/ref/consoleproject.dll
